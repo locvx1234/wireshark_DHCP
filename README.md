@@ -54,5 +54,5 @@ Ta sẽ bắt được 4 gói tin DHCP
 
 <img src="http://i.imgur.com/d2Oj1Pf.png">
 
-- IP nguồn : 192.168.0.1, IP đích 192.168.0.67
+- IP nguồn : 192.168.0.1, IP đích 192.168.0.6
 - Các option : Type (ACK), DHCP serverID, IP address Lease Time, Subnet Mark, Router, DNS
