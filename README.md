@@ -31,6 +31,7 @@ Ta sẽ bắt được 4 gói tin DHCP
 - Flags==0 => đều tắt
 - Các địa chỉ IP (Client IP Address, Your IP Address ) đặt mặc định là 0.0.0.0
 - Các option : Type (discover), ClientID, Requested IP Address, host name, vendor classID, parameter request list.
+
 ### 2. DHCP Offer
 
 <img src="http://i.imgur.com/YH1B5f0.png">
